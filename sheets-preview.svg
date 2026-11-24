@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Email Sender spreadsheet preview</title><desc id="desc">Recreated Google Sheets-style interface with fictional recipients and the Email Sender menu open. Nothing is sent.</desc>
+<style>text{font-family:Arial,sans-serif}.grid{stroke:#e2e5e7;stroke-width:1}.ui{fill:#3c4043;font-size:17px}.status{font-size:15px;font-weight:600}.body{fill:#202124;font-size:16px}</style>
+<rect x="1" y="1" width="1198" height="718" rx="21" fill="#fff" stroke="#cdd4ce"/>
+<rect x="24" y="24" width="32" height="40" rx="5" fill="#188038" stroke="none"/>
+<path d="M30 37h20v18H30zM30 46h20M40 37v18" fill="none" stroke="#fff" stroke-width="1.3"/>
+<text x="68" y="44" font-size="24" fill="#202124" font-weight="500" text-anchor="start">Campaign Operations</text>
+<text x="1170" y="43" font-size="13" fill="#4d6253" font-weight="700" text-anchor="end">PORTFOLIO MOCKUP · SAMPLE DATA</text>
+<text x="69" y="77" font-size="16" fill="#3c4043" font-weight="400" text-anchor="start">File</text>
+<text x="118" y="77" font-size="16" fill="#3c4043" font-weight="400" text-anchor="start">Edit</text>
+<text x="167" y="77" font-size="16" fill="#3c4043" font-weight="400" text-anchor="start">View</text>
+<text x="227" y="77" font-size="16" fill="#3c4043" font-weight="400" text-anchor="start">Insert</text>
+<text x="294" y="77" font-size="16" fill="#3c4043" font-weight="400" text-anchor="start">Format</text>
+<text x="374" y="77" font-size="16" fill="#3c4043" font-weight="400" text-anchor="start">Data</text>
+<text x="430" y="77" font-size="16" fill="#3c4043" font-weight="400" text-anchor="start">Tools</text>
+<text x="489" y="77" font-size="16" fill="#3c4043" font-weight="400" text-anchor="start">Extensions</text>
+<text x="584" y="77" font-size="16" fill="#3c4043" font-weight="400" text-anchor="start">Help</text>
+<rect x="640" y="55" width="132" height="33" rx="7" fill="#e6f4ea" stroke="none"/>
+<text x="654" y="77" font-size="16" fill="#0d652d" font-weight="600" text-anchor="start">Email Sender ▾</text>
+<rect x="20" y="101" width="1160" height="43" rx="9" fill="#edf2fa" stroke="none"/>
+<text x="38" y="129" font-size="17" fill="#3c4043" font-weight="400" text-anchor="start">↶</text>
+<text x="78" y="129" font-size="17" fill="#3c4043" font-weight="400" text-anchor="start">↷</text>
+<text x="126" y="129" font-size="17" fill="#3c4043" font-weight="400" text-anchor="start">100%  ▾</text>
+<text x="229" y="129" font-size="17" fill="#3c4043" font-weight="400" text-anchor="start">$</text>
+<text x="266" y="129" font-size="17" fill="#3c4043" font-weight="400" text-anchor="start">%</text>
+<text x="305" y="129" font-size="17" fill="#3c4043" font-weight="400" text-anchor="start">123 ▾</text>
+<text x="395" y="129" font-size="17" fill="#3c4043" font-weight="400" text-anchor="start">Arial  ▾</text>
+<text x="505" y="129" font-size="17" fill="#3c4043" font-weight="400" text-anchor="start">10 ▾</text>
+<text x="576" y="129" font-size="17" fill="#3c4043" font-weight="600" text-anchor="start">B</text>
+<text x="617" y="129" font-size="17" fill="#3c4043" font-weight="400" text-anchor="start">I</text>
+<path d="M195 112v22M367 112v22M474 112v22M550 112v22" fill="none" stroke="#dadce0" stroke-width="1"/>
+<rect x="20" y="153" width="1160" height="30" rx="0" fill="#fff" stroke="#e0e3e7"/>
+<text x="36" y="174" font-size="15" fill="#3c4043" font-weight="400" text-anchor="start">A1 ▾</text>
+<text x="99" y="174" font-size="17" fill="#73767a" font-weight="400" text-anchor="start">ƒx</text>
+<text x="136" y="174" font-size="15" fill="#202124" font-weight="400" text-anchor="start">Recipient</text>
+<path d="M79 153v30M122 153v30" fill="none" stroke="#dadce0" stroke-width="1"/>
+<rect x="20" y="192" width="1160" height="32" rx="0" fill="#f1f3f4" stroke="none"/>
+<text x="159.0" y="214" font-size="14" fill="#5f6368" font-weight="500" text-anchor="middle">A</text>
+<text x="420.0" y="214" font-size="14" fill="#5f6368" font-weight="500" text-anchor="middle">B</text>
+<text x="670.5" y="214" font-size="14" fill="#5f6368" font-weight="500" text-anchor="middle">C</text>
+<text x="855.0" y="214" font-size="14" fill="#5f6368" font-weight="500" text-anchor="middle">D</text>
+<text x="1064.5" y="214" font-size="14" fill="#5f6368" font-weight="500" text-anchor="middle">E</text>
+<rect x="20" y="224" width="38" height="43" rx="0" fill="#f1f3f4" stroke="none"/>
+<rect x="58" y="224" width="1122" height="43" rx="0" fill="#e6f4ea" stroke="none"/>
+<text x="39" y="251" font-size="14" fill="#5f6368" font-weight="500" text-anchor="middle">1</text>
+<path d="M20 224h1160" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<rect x="20" y="267" width="38" height="43" rx="0" fill="#f1f3f4" stroke="none"/>
+<text x="39" y="294" font-size="14" fill="#5f6368" font-weight="500" text-anchor="middle">2</text>
+<path d="M20 267h1160" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<rect x="20" y="310" width="38" height="43" rx="0" fill="#f1f3f4" stroke="none"/>
+<text x="39" y="337" font-size="14" fill="#5f6368" font-weight="500" text-anchor="middle">3</text>
+<path d="M20 310h1160" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<rect x="20" y="353" width="38" height="43" rx="0" fill="#f1f3f4" stroke="none"/>
+<text x="39" y="380" font-size="14" fill="#5f6368" font-weight="500" text-anchor="middle">4</text>
+<path d="M20 353h1160" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<rect x="20" y="396" width="38" height="43" rx="0" fill="#f1f3f4" stroke="none"/>
+<text x="39" y="423" font-size="14" fill="#5f6368" font-weight="500" text-anchor="middle">5</text>
+<path d="M20 396h1160" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<rect x="20" y="439" width="38" height="43" rx="0" fill="#f1f3f4" stroke="none"/>
+<text x="39" y="466" font-size="14" fill="#5f6368" font-weight="500" text-anchor="middle">6</text>
+<path d="M20 439h1160" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<rect x="20" y="482" width="38" height="43" rx="0" fill="#f1f3f4" stroke="none"/>
+<text x="39" y="509" font-size="14" fill="#5f6368" font-weight="500" text-anchor="middle">7</text>
+<path d="M20 482h1160" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<rect x="20" y="525" width="38" height="43" rx="0" fill="#f1f3f4" stroke="none"/>
+<text x="39" y="552" font-size="14" fill="#5f6368" font-weight="500" text-anchor="middle">8</text>
+<path d="M20 525h1160" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<rect x="20" y="568" width="38" height="43" rx="0" fill="#f1f3f4" stroke="none"/>
+<text x="39" y="595" font-size="14" fill="#5f6368" font-weight="500" text-anchor="middle">9</text>
+<path d="M20 568h1160" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<rect x="20" y="611" width="38" height="43" rx="0" fill="#f1f3f4" stroke="none"/>
+<text x="39" y="638" font-size="14" fill="#5f6368" font-weight="500" text-anchor="middle">10</text>
+<path d="M20 611h1160" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<path d="M20 192v462" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<path d="M58 192v462" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<path d="M260 192v462" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<path d="M580 192v462" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<path d="M761 192v462" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<path d="M949 192v462" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<path d="M1180 192v462" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<path d="M20 654H1180" fill="none" stroke="#e2e5e7" stroke-width="1"/>
+<text x="72" y="252" font-size="16" fill="#174c2a" font-weight="700" text-anchor="start">Recipient</text>
+<text x="274" y="252" font-size="16" fill="#174c2a" font-weight="700" text-anchor="start">Email</text>
+<text x="593" y="252" font-size="16" fill="#174c2a" font-weight="700" text-anchor="start">Status</text>
+<text x="775" y="252" font-size="16" fill="#174c2a" font-weight="700" text-anchor="start">Last sent</text>
+<text x="962" y="252" font-size="16" fill="#174c2a" font-weight="700" text-anchor="start">Notes</text>
+<rect x="58" y="224" width="202" height="43" rx="0" fill="none" stroke="#1a73e8"/>
+<text x="72" y="294" font-size="16" fill="#202124" font-weight="400" text-anchor="start">Contact A</text>
+<text x="274" y="294" font-size="16" fill="#202124" font-weight="400" text-anchor="start">contact-a@example.test</text>
+<rect x="591" y="276" width="126" height="25" rx="12" fill="#e6f4ea" stroke="none"/>
+<text x="605" y="294" font-size="15" fill="#0d652d" font-weight="600" text-anchor="start">Sent  ▾</text>
+<text x="775" y="294" font-size="15" fill="#202124" font-weight="400" text-anchor="start">Nov 24, 10:08 AM</text>
+<text x="962" y="294" font-size="15" fill="#202124" font-weight="400" text-anchor="start">Found in recent sent</text>
+<text x="72" y="337" font-size="16" fill="#202124" font-weight="400" text-anchor="start">Contact B</text>
+<text x="274" y="337" font-size="16" fill="#202124" font-weight="400" text-anchor="start">contact-b@example.test</text>
+<rect x="591" y="319" width="126" height="25" rx="12" fill="#fef7e0" stroke="none"/>
+<text x="605" y="337" font-size="15" fill="#7c4c00" font-weight="600" text-anchor="start">Pending  ▾</text>
+<text x="775" y="337" font-size="15" fill="#202124" font-weight="400" text-anchor="start">—</text>
+<text x="962" y="337" font-size="15" fill="#202124" font-weight="400" text-anchor="start">Ready for preview</text>
+<text x="72" y="380" font-size="16" fill="#202124" font-weight="400" text-anchor="start">Contact C</text>
+<text x="274" y="380" font-size="16" fill="#202124" font-weight="400" text-anchor="start">contact-c@example.test</text>
+<rect x="591" y="362" width="126" height="25" rx="12" fill="#e6f4ea" stroke="none"/>
+<text x="605" y="380" font-size="15" fill="#0d652d" font-weight="600" text-anchor="start">Sent  ▾</text>
+<text x="775" y="380" font-size="15" fill="#202124" font-weight="400" text-anchor="start">Nov 24, 10:12 AM</text>
+<text x="962" y="380" font-size="15" fill="#202124" font-weight="400" text-anchor="start">Submitted</text>
+<text x="72" y="423" font-size="16" fill="#202124" font-weight="400" text-anchor="start">Contact D</text>
+<text x="274" y="423" font-size="16" fill="#202124" font-weight="400" text-anchor="start">contact-d@example.test</text>
+<rect x="591" y="405" width="126" height="25" rx="12" fill="#fce8e6" stroke="none"/>
+<text x="605" y="423" font-size="15" fill="#a50e0e" font-weight="600" text-anchor="start">Review  ▾</text>
+<text x="775" y="423" font-size="15" fill="#202124" font-weight="400" text-anchor="start">—</text>
+<text x="962" y="423" font-size="15" fill="#202124" font-weight="400" text-anchor="start">Check contact details</text>
+<text x="72" y="466" font-size="16" fill="#202124" font-weight="400" text-anchor="start">Contact E</text>
+<text x="274" y="466" font-size="16" fill="#202124" font-weight="400" text-anchor="start">contact-e@example.test</text>
+<rect x="591" y="448" width="126" height="25" rx="12" fill="#fef7e0" stroke="none"/>
+<text x="605" y="466" font-size="15" fill="#7c4c00" font-weight="600" text-anchor="start">Pending  ▾</text>
+<text x="775" y="466" font-size="15" fill="#202124" font-weight="400" text-anchor="start">—</text>
+<text x="962" y="466" font-size="15" fill="#202124" font-weight="400" text-anchor="start">Ready for preview</text>
+<text x="72" y="509" font-size="16" fill="#202124" font-weight="400" text-anchor="start">Contact F</text>
+<text x="274" y="509" font-size="16" fill="#202124" font-weight="400" text-anchor="start">contact-f@example.test</text>
+<rect x="591" y="491" width="126" height="25" rx="12" fill="#fef7e0" stroke="none"/>
+<text x="605" y="509" font-size="15" fill="#7c4c00" font-weight="600" text-anchor="start">Pending  ▾</text>
+<text x="775" y="509" font-size="15" fill="#202124" font-weight="400" text-anchor="start">—</text>
+<text x="962" y="509" font-size="15" fill="#202124" font-weight="400" text-anchor="start">Ready for preview</text>
+<rect x="20" y="655" width="1160" height="49" rx="0" fill="#f8f9fa" stroke="none"/>
+<text x="39" y="686" font-size="23" fill="#56626e" font-weight="400" text-anchor="start">+</text>
+<rect x="78" y="660" width="156" height="39" rx="6" fill="#e6f4ea" stroke="none"/>
+<text x="96" y="685" font-size="15" fill="#0d652d" font-weight="700" text-anchor="start">Spring Preview ▾</text>
+<text x="259" y="685" font-size="15" fill="#56626e" font-weight="400" text-anchor="start">Second Group ▾</text>
+<text x="430" y="685" font-size="15" fill="#56626e" font-weight="400" text-anchor="start">Email Template ▾</text>
+<rect x="646" y="94" width="357" height="248" rx="9" fill="#c6ccc9" stroke="none"/>
+<rect x="640" y="88" width="357" height="248" rx="9" fill="#fff" stroke="#dadce0"/>
+<text x="663" y="128" font-size="17" fill="#202124" font-weight="400" text-anchor="start">Select Contact Group</text>
+<text x="663" y="172" font-size="17" fill="#202124" font-weight="400" text-anchor="start">Check Quota</text>
+<text x="663" y="216" font-size="17" fill="#202124" font-weight="400" text-anchor="start">Edit Template</text>
+<rect x="650" y="235" width="337" height="38" rx="4" fill="#e8f0fe" stroke="none"/>
+<text x="663" y="260" font-size="17" fill="#1a73e8" font-weight="600" text-anchor="start">Check Recent Sent (24h)</text>
+<text x="663" y="304" font-size="17" fill="#202124" font-weight="400" text-anchor="start">Preview Pending Batch</text>
+</svg>
