@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 350" width="960" height="350" role="img" aria-labelledby="title desc">
+<title id="title">Order Tracking</title>
+<desc id="desc">An example order reconciliation view. The confirmed total is $12,500 and the invoice total is $11,750, leaving a $750 short-shipped value.</desc>
+<style>
+text{font-family:Helvetica,Arial,sans-serif;fill:#192838}.label{font-size:15px;fill:#405569}.value{font-size:30px;font-weight:bold}.blue{fill:#255b80}.head{font-size:14px;font-weight:bold;fill:#405569}.body{font-size:17px;font-weight:bold}.sub{font-size:14px;fill:#405569}
+</style>
+<rect width="960" height="350" fill="#fff"/>
+<rect x="12" y="12" width="936" height="326" rx="15" fill="#f2f6f9" stroke="#c5d3de"/>
+<text x="35" y="55" font-size="27" font-weight="bold">Order Tracking</text>
+<g stroke="#c5d3de" fill="#fff">
+ <rect x="35" y="76" width="286" height="92" rx="9"/><rect x="337" y="76" width="286" height="92" rx="9"/><rect x="639" y="76" width="286" height="92" rx="9"/>
+</g>
+<text class="label" x="52" y="107">Order confirmation total</text><text class="value" x="52" y="145">$12,500</text>
+<text class="label" x="354" y="107">Invoice total</text><text class="value" x="354" y="145">$11,750</text>
+<text class="label" x="656" y="107">Short-shipped value</text><text class="value blue" x="656" y="145">$750</text>
+<rect x="35" y="192" width="890" height="105" fill="#fff" stroke="#c5d3de"/>
+<rect x="35" y="192" width="890" height="36" fill="#e5eef4" stroke="#c5d3de"/>
+<g class="head"><text x="50" y="215">Account</text><text x="232" y="215">Delivery</text><text x="488" y="215">Confirmation</text><text x="650" y="215">Invoice</text><text x="800" y="215">Short-shipped</text></g>
+<g class="body"><text x="50" y="255">Sample Account A</text><text class="blue" x="232" y="255">03/01/2027 – 03/15/2027</text><text x="488" y="255">OC-2084</text><text x="650" y="255">INV-3096</text><text class="blue" x="800" y="255">$750</text></g>
+<g class="sub"><text x="50" y="278">Order SO-1042</text><text x="232" y="278">Select or paste a date range</text><text x="488" y="278">50 units / $12,500</text><text x="650" y="278">47 units / $11,750</text><text x="800" y="278">3 units</text></g>
+</svg>
